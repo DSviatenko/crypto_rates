@@ -5,7 +5,7 @@
 - Email: dimasviatenko@gmail.com
 
 # Automating Data Collection and Storage
-Develop an automated ETL (Extract, Transform, Load) pipeline that connects to an external API to retrieve data, processes the data as per requirements, and stores it in a PostgreSQL database. The process is implemented using Apache Airflow.
+Developed an automated ETL (Extract, Transform, Load) pipeline that connects to an external API to retrieve data, processes the data as per requirements, and stores it in a PostgreSQL database. The process is implemented using Apache Airflow.
 
 # Technology Stack
 - ***Apache Airflow***: Workflow orchestration and DAG management.
