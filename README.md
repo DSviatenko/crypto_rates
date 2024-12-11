@@ -1,3 +1,9 @@
+## Author
+**Dmytro Sviatenko**  
+- [GitHub Profile](https://github.com/dsviatenko)  
+- [LinkedIn Profile](https://linkedin.com/in/dimasviatenko)  
+- Email: dimasviatenko@gmail.com
+
 # Automating Data Collection and Storage
 Develop an automated ETL (Extract, Transform, Load) pipeline that connects to an external API to retrieve data, processes the data as per requirements, and stores it in a PostgreSQL database. The process is implemented using Apache Airflow.
 
